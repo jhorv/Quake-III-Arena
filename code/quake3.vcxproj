@@ -184,6 +184,7 @@
       <SubSystem>Windows</SubSystem>
       <StackReserveSize>8388608</StackReserveSize>
       <TargetMachine>MachineX86</TargetMachine>
+      <DataExecutionPrevention>false</DataExecutionPrevention>
     </Link>
     <Midl>
       <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
@@ -229,6 +230,7 @@
       <SubSystem>Windows</SubSystem>
       <StackReserveSize>8388608</StackReserveSize>
       <TargetMachine>MachineX86</TargetMachine>
+      <DataExecutionPrevention>false</DataExecutionPrevention>
     </Link>
     <Midl>
       <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
@@ -276,6 +278,7 @@
       <SubSystem>Windows</SubSystem>
       <StackReserveSize>8388608</StackReserveSize>
       <TargetMachine>MachineX86</TargetMachine>
+      <DataExecutionPrevention>false</DataExecutionPrevention>
     </Link>
     <Midl>
       <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
@@ -317,6 +320,7 @@
       <SubSystem>Windows</SubSystem>
       <StackReserveSize>8388608</StackReserveSize>
       <TargetMachine>MachineX86</TargetMachine>
+      <DataExecutionPrevention>false</DataExecutionPrevention>
     </Link>
     <Midl>
       <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
@@ -358,6 +362,7 @@
       <SubSystem>Windows</SubSystem>
       <StackReserveSize>8388608</StackReserveSize>
       <TargetMachine>MachineX86</TargetMachine>
+      <DataExecutionPrevention>false</DataExecutionPrevention>
     </Link>
     <Midl>
       <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
@@ -402,6 +407,7 @@
       <SubSystem>Windows</SubSystem>
       <StackReserveSize>8388608</StackReserveSize>
       <TargetMachine>MachineX86</TargetMachine>
+      <DataExecutionPrevention>false</DataExecutionPrevention>
     </Link>
     <Midl>
       <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
@@ -443,6 +449,7 @@
       <SubSystem>Windows</SubSystem>
       <StackReserveSize>8388608</StackReserveSize>
       <TargetMachine>MachineX86</TargetMachine>
+      <DataExecutionPrevention>false</DataExecutionPrevention>
     </Link>
     <Midl>
       <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
